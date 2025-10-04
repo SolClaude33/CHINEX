@@ -6,12 +6,12 @@ import { ThemeProvider } from "@/components/theme-provider"
 export async function generateMetadata(): Promise<Metadata> {
 
   return {
-    title: "NSDEX",
-    description: "NSDΞX isn’t just an index. It’s a signal.",
-    metadataBase: new URL('https://www.NSDEX.fun'),
+    title: "CHINEX - The People's Dragon Index",
+    description: "CHINEX isn't just a coin — it's a current. Follow the 龙 (dragon) across the ledgers, Decode the 金流 (gold flow) before dawn.",
+    metadataBase: new URL('https://chinex.fun'),
     openGraph: {
-    title: "NSDEX",
-      description: "NSDΞX isn’t just an index. It’s a signal.",
+    title: "CHINEX - The People's Dragon Index",
+      description: "CHINEX isn't just a coin — it's a current. Follow the 龙 (dragon) across the ledgers, Decode the 金流 (gold flow) before dawn.",
       images: '/logo.png'
     }
 
