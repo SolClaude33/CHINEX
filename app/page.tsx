@@ -290,7 +290,7 @@ export default function Home() {
                   <div className="bg-[#440000] border border-[#cc3333] p-3 text-[#ff9999] relative">
                     <p>
                       我只是红潮巷子里的一个交易员, 对王朝神话和破碎账本情有独钟.
-                      CHINEX6900 证明了连指数也会向资金流低头. NSDEX？ 它在玉色K线里做梦.
+                      CHINEX6900 证明了连指数也会向资金流低头. CHINEX？ 它在玉色K线里做梦.
                     </p>
                     <p className="mt-2">Ξ 调频，聆听流动性深度的回声</p>
 
@@ -415,7 +415,7 @@ export default function Home() {
                 "This is the Jade Candle—prosperity, encoded." <br /> <br />
                 Inside the drive was an animated green candlestick rising without end, looped to a silk-soft guzheng beat and stamped with the Dragon Seal. <br /> <br />
                 Officials paused the session. Witnesses say a senior economist whispered, “这……是纯粹的金融艺术.” “This… is pure financial art.” <br /> <br />
-                The NFT is now live on Solana as Jade Candle #6900, price-pegged in ¥-rails / CHINEX.
+                The NFT is now live on BSC as Jade Candle #6900, price-pegged in ¥-rails / CHINEX.
               </p>
             </div>
             <img src="./news/1.png" alt="" />

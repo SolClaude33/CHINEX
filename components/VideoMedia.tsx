@@ -32,7 +32,7 @@ const VideoMedia = () => {
     <footer className="m-4 mt-8">
       <div className="bg-[#220000] border-4 border-[#663333] rounded-xl p-4 relative flex flex-row justify-between">
         <div className='w-[500px] h-full' id="dexscreener-embed">
-          <iframe className='w-[500px] h-[400px]' src={`https://dexscreener.com/solana/9rrafeczbi2mdvbexe98rgpozw7qpdvipssh3tos3aev`}>
+          <iframe className='w-[500px] h-[400px]' src={`https://dexscreener.com/bsc/9rrafeczbi2mdvbexe98rgpozw7qpdvipssh3tos3aev`}>
           </iframe>
         </div>
         <div>
@@ -64,7 +64,7 @@ const VideoMedia = () => {
 
           {/* Footer text */}
           <div className="mt-4 text-center text-xs text-[#ff6666]">
-            <p>© 2025 NSDΞX | Hosted via corrupted validator mirror</p>
+            <p>© 2025 CHINEX | Hosted via corrupted validator mirror</p>
             <p className="mt-1">
               <Mail className="inline-block h-3 w-3 mr-1" />
               <a href="mailto:cyber@example.com" className="text-[#33ccff] hover:underline">

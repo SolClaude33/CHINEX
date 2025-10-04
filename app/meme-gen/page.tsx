@@ -210,7 +210,7 @@ const MemeGenerator = () => {
         {/* Header */}
         <div className="text-center mb-8 relative">
           <h1 className="text-6xl font-bold text-cyan-400 mb-2 tracking-wider">
-            NSDEX
+            CHINEX
           </h1>
           <h2 className="text-4xl text-cyan-300 font-semibold">
             MEME GEN
