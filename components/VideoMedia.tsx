@@ -80,7 +80,7 @@ const VideoMedia = () => {
           </div>
         </div>
         <div className='w-[500px] h-[400px] flex flex-col justify-center items-center gap-8' id="dexscreener-embed">
-          <a href='https://x.com/ChinexBSC' target='_blank' className='border-2 border-[#cc3333] rounded-md text-2xl p-4 h-fit w-fit'>
+          <a href='https://x.com/i/communities/1976495846817411369' target='_blank' className='border-2 border-[#cc3333] rounded-md text-2xl p-4 h-fit w-fit'>
             Twitter
           </a>
           <div className='border-2 border-[#cc3333] rounded-md text-2xl p-4 h-fit w-fit'>
