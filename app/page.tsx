@@ -123,7 +123,7 @@ export default function Home() {
                 <span className="text-[#ff99cc] mx-4">★彡 Last updated: 10/10/2025 彡★</span>
                 <span className="text-[#ff3333] mx-4">★彡 Best viewed in 800x600 彡★</span>
                 <span className="text-[#ff99cc] mx-4">★彡 Sign my guestbook! 彡★</span>
-                <span className="text-[#ff99cc] mx-4">0x25805b31fbb8d8828b3761ae774610d1e9494444</span>
+                <span className="text-[#ff99cc] mx-4">SOON</span>
 
               </div>
             </div>
@@ -223,7 +223,7 @@ export default function Home() {
   > ^ <  
  Cyber Cat
  says hi!`}
- <p className="text-xl">0x25805b31fbb8d8828b3761ae774610d1e9494444</p>
+ <p className="text-xl">SOON</p>
                   </div>
 
                   <div className="flex flex-wrap gap-2 mt-4">
