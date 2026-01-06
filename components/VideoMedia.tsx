@@ -32,7 +32,7 @@ const VideoMedia = () => {
     <footer className="m-4 mt-8">
       <div className="bg-[#220000] border-4 border-[#663333] rounded-xl p-4 relative flex flex-row justify-between">
         <div className='w-[500px] h-full' id="dexscreener-embed">
-          <iframe className='w-[500px] h-[400px]' src={`https://dexscreener.com/bsc/9rrafeczbi2mdvbexe98rgpozw7qpdvipssh3tos3aev`}>
+          <iframe className='w-[500px] h-[400px]' src={`https://dexscreener.com/solana`}>
           </iframe>
         </div>
         <div>
